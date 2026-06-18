@@ -1,12 +1,3 @@
-Got it — your issue is mainly **GitHub Markdown compatibility + a few formatting pitfalls (LaTeX, spacing, and code blocks not properly closed in preview tools)**.
-
-Below is a **fully GitHub-perfect version** of your `setup-guide.md`. This version will render cleanly on GitHub with no weird numbering or formatting issues.
-
----
-
-# ✅ FIXED GITHUB-READY MARKDOWN
-
-```markdown
 # 📘 Setup Guide — Serverless Image Processing Pipeline (AWS Lambda + S3)
 
 This guide provides step-by-step instructions to build, package, and deploy a production-ready serverless image processing pipeline using AWS.
