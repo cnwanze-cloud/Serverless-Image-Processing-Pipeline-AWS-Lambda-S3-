@@ -7,7 +7,8 @@ This pipeline automatically triggers an AWS Lambda function whenever an image is
 ---
 
 ## 🏗️ Architecture Diagram
-ARCHITECTURE IMAGE
+<img width="1408" height="768" alt="Architecture" src="https://github.com/user-attachments/assets/41c674c0-7bb4-46ab-9ec6-fbb22609f431" />
+
 
 ---
 
