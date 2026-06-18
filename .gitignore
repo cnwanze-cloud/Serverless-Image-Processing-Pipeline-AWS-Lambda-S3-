@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# AWS Lambda deployment packages
+deployment.zip
+*.zip
+
+# Dependency packaging folders
+package/
+build/
+dist/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Test coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
